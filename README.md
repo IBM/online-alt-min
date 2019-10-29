@@ -1,5 +1,7 @@
 # Online Alternating Minimization
-Pytorch code for paper Choromanska et al. -- Beyond Backprop: Online Alternating Minimization with Auxiliary Variables -- http://proceedings.mlr.press/v97/choromanska19a.html
+Pytorch code for paper
+> Choromanska et al., "Beyond Backprop: Online Alternating Minimization with Auxiliary Variables", PMLR 97:1193-1202, 2019, 
+> http://proceedings.mlr.press/v97/choromanska19a.html
 
 ### Requirements
 * Python 3.5 or above
