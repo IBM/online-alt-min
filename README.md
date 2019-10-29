@@ -32,7 +32,7 @@ python plot_results.py
 * This implementation of the feedforward model includes BatchNorm, which generally slightly improves performance upon what reported in the paper. Hyperparameters were tuned for the models with BatchNorm.
 
 ## Citation
-> Anna Choromanska, Benjamin Cowen, Sadhana Kumaravel, Ronny Luss, Mattia Rigotti, Irina Rish, Paolo Diachille, Viatcheslav Gurev, Brian Kingsbury, Ravi Tejwani, and Djallel Bouneffouf. Beyond Backprop: Online Alternating Minimization with Auxiliary Variables. Proceedings of the 36th International Conference on Machine Learning, PMLR 97:1193-1202, 2019 [[PDF](http://proceedings.mlr.press/v97/choromanska19a/choromanska19a.pdf)]
+> Anna Choromanska, Benjamin Cowen, Sadhana Kumaravel, Ronny Luss, Mattia Rigotti, Irina Rish, Paolo Diachille, Viatcheslav Gurev, Brian Kingsbury, Ravi Tejwani, and Djallel Bouneffouf. "Beyond Backprop: Online Alternating Minimization with Auxiliary Variables". Proceedings of the 36th International Conference on Machine Learning, PMLR 97:1193-1202, 2019 [[PDF](http://proceedings.mlr.press/v97/choromanska19a/choromanska19a.pdf)]
 
 For citations use the following Bibtex entry:
 ```
